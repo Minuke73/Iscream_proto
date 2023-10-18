@@ -1,3 +1,7 @@
+:fullscreen {
+  background-color: white;
+}
+
 (function (cjs, an) {
 
 var p; // shortcut to reference prototypes
